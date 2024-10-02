@@ -9,3 +9,5 @@ This repository contains a Jupyter notebook analyzing sales data from a supermar
 - Model evaluation and future predictions
 
 The analysis provides insights into sales patterns and demonstrates how to build a deep learning model for forecasting future demand. Useful for data scientists and analysts working with retail sales data.
+
+The Supermarket Dataset that was used was taken from https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
